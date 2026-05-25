@@ -5,9 +5,7 @@
 - 🌱 I enjoy building software that solves real-world problems
 
 <p align="center" style="margin-top:2.5rem;">
-  <a href="https://skillicons.dev">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,tailwind,alpinejs,laravel,livewire" />
-  </a>
 </p>
 
 <div style="display:flex;align-items:center;justify-content:center;gap:2rem;font-weight:bold; font-style:italic;text-transform:uppercase;font-size:16px;">
