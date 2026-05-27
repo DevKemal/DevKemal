@@ -1,29 +1,34 @@
 - 👋 Hi, I’m <a href="https://devkemal.github.io/en" target="_blank">@DevKemal</a>
-- 💻 Web developer with 15 years of experience
-- ⚙️ Mainly backend, but happy to work on the UI too
-- 🚀 Building web applications with PHP, Laravel, Livewire, Alpine.js and Tailwind CSS (a.k.a. TALL stack)
-- 🌱 I enjoy building software that solves real-world problems
+- 💻 Web applications developer with 15 years of experience
+- ⚙️ Backend-focused, but comfortable working across the full stack
+- 🚀 Building web applications with PHP, Laravel, Livewire, Alpine.js and Tailwind CSS
+- 💼 Building SaaS and business management applications for 6+ years
 
-<br>
+- ⚡ Experienced with:
+  - Authentication & authorization
+  - Reporting & dashboards
+  - Inventory and management systems
+  - Queues & background jobs
+  - Payments & ecommerce
+  - Admin panels
+  - REST APIs
+  - Multi-tenant workflows
+
 <br>
 
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,tailwind,alpinejs,laravel,livewire" />
 </p>
 
-<br>
-
 ---
 
-<br>
-
-## Currently working on...
+## Currently building…
 
 ### 🖥️ DeskMan
-> Desktop management software for Windows.
+Desktop management software for Windows.
 
 ### 🛒 Sellfy
-> An ecommerce template built for businesses that just want to start selling.
+Ecommerce platform/template focused on helping small businesses start selling quickly.
 
 ### 🏢 BizimBina
-> Apartment and site management software for residential communities.
+Apartment and residential community management software.
