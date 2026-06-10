@@ -25,10 +25,7 @@
 ## Currently building…
 
 ### 🖥️ DeskMan
-Desktop management software for Windows.
+Desktop screen management software for Windows.
 
-### 🛒 Sellfy
-Ecommerce platform/template focused on helping small businesses start selling quickly.
-
-### 🏢 BizimBina
-Apartment and residential community management software.
+### 🐙 IssueDesk
+Desktop app for tracking and managing GitHub issues across all your repositories. Will be open source upon first release.
