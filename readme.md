@@ -6,10 +6,6 @@ Currently focused on building my own products
 
 <br>
 
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,tailwind,alpinejs,laravel,livewire,py" />
-</p>
-
 ### Currently building : Trilly
 
 ---
@@ -21,3 +17,8 @@ Desktop screen management software for Windows.
 
 ### 🐙 IssueDesk
 Desktop app for tracking and managing GitHub issues across all your repositories. Will be open source upon first release.
+
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,tailwind,alpinejs,laravel,livewire,py" />
+</p>
