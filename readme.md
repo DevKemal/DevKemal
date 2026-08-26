@@ -22,7 +22,9 @@
 
 ---
 
-## Currently building…
+### Currently building : Trilly
+
+## Side projects :
 
 ### 🖥️ DeskMan
 Desktop screen management software for Windows.
